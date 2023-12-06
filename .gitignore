@@ -1,6 +1,6 @@
 .vscode/
 .DS_Store
 .micropico
-/src/farset_tree/config.py
+#/src/farset_tree/config.py
 /src/farset_tree/wifi.json
-/src/farset_tree/github.json
+#/src/farset_tree/github.json
